@@ -24,7 +24,7 @@ IPT (IP Tester) is a Go language application designed to test TCP connections to
 
 If you have Go installed and prefer to build from source:
 
-`go install github.com/<your_username>/ipt@latest`
+`go install github.com/debek/ipt@latest`
 
 This will install the `ipt` binary in your `$GOPATH/bin` directory.
 
