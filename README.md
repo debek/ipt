@@ -2,6 +2,8 @@
 
 IPT (IP Tester) is a Go language application designed to test TCP connections to specified IP addresses and ports. It provides easy-to-interpret, color-coded output to quickly distinguish between successful and failed connections.
 
+![ipt cli tool](images/ipt.png)
+
 ## Features
 
 - TCP connection testing to a specified IP address and port.
@@ -44,11 +46,11 @@ Run the program with the following arguments:
 - `ipt 192.168.1.1 80`
 
 - Testing connection to a server on port 443 with a 10-second timeout:
-- `ipt 192.168.1.1 443 10s`
+- `ipt 192.168.1.1 443 10`
 
 ## Contributing
 
-Contributions to this project are welcome! Please see the [CONTRIBUTE.md](https://chat.openai.com/g/CONTRIBUTE.md) file for guidelines on how to contribute.
+Contributions to this project are welcome! Please see the [CONTRIBUTE.md](https://github.com/debek/ipt/blob/main/CONTRIBUTE.md) file for guidelines on how to contribute.
 
 ## License
 
