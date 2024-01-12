@@ -1,3 +1,8 @@
+// IPT
+// Author: Daniel Debny - github.com/debek
+// Year: 24.12.2023
+// Description: An application for testing TCP/UDP connection to a given host and port.
+
 package main
 
 import (
